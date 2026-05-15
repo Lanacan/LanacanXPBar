@@ -1,0 +1,9 @@
+## Interface: 120001, 120005, 120007
+## Title: |cFFFFFFFFLanacan|r|cffa335eeXPBar|r  
+## Notes: Simple XP Bar Addon.
+## Author: Lanacan
+## Version: 1.2.2 - Retail
+
+LanacanXPBar.lua
+
+
