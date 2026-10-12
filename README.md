@@ -7,7 +7,7 @@ Minimal XP Bar - Gives Level, Current/Max (%) % Rested %.
 
 
 
-This works in Retail (tested) & Classic (Maybe).
+Works in Retail & Classic & Forever.
 
 Configuration Options:
 Code:
